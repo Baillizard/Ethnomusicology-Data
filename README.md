@@ -1,5 +1,5 @@
 # Ethnomusicology-Data
-For Data Curation and Policy, UCLA GSEIS 2020
+For Data Curation and Policy, UCLA GSEIS Spring 2020
 Date Created: 05.15.2020
 ## Hypothesis: Ethnomusicology Data requires specialized repositories and metadata standards as well as the oversight of Data Management professionals
 ## About Project
@@ -9,3 +9,6 @@ Date Created: 05.15.2020
 ## About Data
 * CSV File
 * .docx Survey Forms
+
+Survey length: Ten Questions
+* Type: Short Answer
